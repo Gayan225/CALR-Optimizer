@@ -22,9 +22,11 @@ pip install -r requirements.txt
 ```
 📖 Citation
 If you use this code, please cite:
+```
 @inproceedings{maduranga2025calr,
   author    = {Kehelwala Dewage Gayan Maduranga},
   title     = {Curvature-Adaptive Learning Rate Optimizer: Theoretical Insights and Empirical Evaluation on Neural Network Training},
   booktitle = {FLAIRS-38},
   year      = {2025}
 }
+```
